@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
-import { AppComponent } from '.application.component';
+import {AppComponent} from "./application.component";
 
 @NgModule({
     declarations: [
